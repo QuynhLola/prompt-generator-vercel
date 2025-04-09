@@ -1,4 +1,3 @@
-
 // Ứng dụng React: Giao diện nhập liệu và sinh prompt theo mẫu
 import React, { useState } from "react";
 import { Input } from "@/components/ui/input";
